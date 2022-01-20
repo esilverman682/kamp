@@ -41,7 +41,7 @@
     "@loadable/component": "^5.15.0",
     "autoprefixer": "^10.0.4",
     "axios": "^0.22.0",
-    "dateformat": "^5.0.1",
+    "dateformat": "^5.0.2",
     "eslint": "^7.32.0",
     "font-awesome": "^4.7.0",
     "graphql": "^15.6.0",
