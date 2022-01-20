@@ -12,6 +12,7 @@
   "dependencies": {
     "@next/bundle-analyzer": "^12.0.8",
     "@svgr/webpack": "^6.2.0",
+    "@typescript-eslint/parser": "^5.10.0",
     "@zeit/next-css": "^1.0.1",
     "babel-runtime": "^6.26.0",
     "cross-env": "^7.0.3",
